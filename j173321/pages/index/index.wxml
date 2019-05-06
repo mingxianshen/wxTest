@@ -1,4 +1,5 @@
 <!--index.wxml-->
+<pmdggl/>
 <LinkList/>
 <view class="tr">
 <image src="../../images/zizuo.jpg" 
